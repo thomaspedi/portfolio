@@ -15,10 +15,9 @@
 <p>The Sitadel2 database lists new constructions in France.
 We can then define the zones where there is the most construction, but which subdivision and which indicator to use? 
 I hope to be able to do this analysis every year to see the evolution of the dynamics!
-<a href="https://github.com/thomaspedi/portfolio/blob/project/sitadel/Projet_sitadel.ipynb"> [click on the link to access the project]</a>
+<a href="https://github.com/thomaspedi/portfolio/blob/project/sitadel/Projet_sitadel.ipynb"> [click on the link to access to the project]</a>
 <h5>Missing Migrants</h5>
 <p>The International Organization for Migration (IOM)’s Missing Migrants Project records incidents in which migrants, including refugees and asylum-seekers, have died at state borders or in the process of migrating to an international destination.
 With this information, I try to evaluate the migratory flows and link them to geopolitical situations.
-[click on the link to access the project] (https://github.com/thomaspedi/portfolio/blob/project/migrants/missing_migrants.ipynb)</p>
-
+<a href="https://github.com/thomaspedi/portfolio/blob/project/migrants/missing_migrants.ipynb"> [click on the link to access to the project]</a>
 
